@@ -1,5 +1,5 @@
 # main text of home
-title: John Doe
+title: Parisa Zeinali
 bio: A Person who travels the world eating noodles
 
 # twitter summary info
@@ -8,7 +8,7 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.jpg
+picture: profile.jpg
 
 # your site color theme, true for dark theme, 
 # false to light theme, auto to switch with system.
@@ -20,7 +20,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://sergiokopplin.github.io/indigo
+url: https://github.com/parisazeynaly/Parisa_zeinali_website
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -46,13 +46,13 @@ authors:
     name: John Doe
     bio: A Man who travels the world eating noodles
     external-image: false
-    picture: assets/images/profile.jpg
+    picture: profile.jpg
     twitter: johndoe
   jamesfoster:
     name: James Foster
     bio: A Man who develops software with coffee
     external-image: false
-    picture: assets/images/james.jpg
+    picture: james.jpg
     twitter: jamesfoster
 
 # do you want a larger site? change the option below
