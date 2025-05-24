@@ -115,3 +115,5 @@ exclude:
     "FAQ.md",
     "vendor",
   ]
+
+baseurl: ""
