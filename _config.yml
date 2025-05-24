@@ -25,7 +25,6 @@ description: "Data Scientist | ML & AI Enthusiast"
 baseurl: ""  # خیلی مهمه که خالی باشه
 url: "https://parisazeynaly.github.io"
 
-
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
